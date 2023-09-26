@@ -98,7 +98,6 @@ int main(int argc, char *argv[]) {
     int erreur = 0;
 
     int socket_serveur = 0;
-    int socket_serveur = 0;
 
     // erreur = mkfifo(FIFO_CLIENT, PERMISSIONS);
     // if (erreur != 0) {
